@@ -7,7 +7,7 @@ I'm **Jordan Schnur**, a passionate and skilled Full Stack Software Engineer who
 -   Instructional Specialist
 -   [Software Consulting](https://github.com/ShockleyConsultingLimited)
 
-💼 I'm also a co-owner of [Shockley Consulting](https://shockley.consulting/), where we offer a range of consulting services.
+💼 I'm also the owner of [Shockley Consulting](https://shockley.consulting/), where we offer a range of consulting services.
 
 💡 Some of my favorite projects include:
 
